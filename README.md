@@ -34,8 +34,12 @@ matplotlib==X.XX
 ...
 ```
 
-
 ## Installation Guide
 The mat codes require the MATLAB platform installed on the PC or Laptop computer. To use the included MCbg.m and SOMbg.m codes, one must add the toolbox of [StatisticalGeochemistry](https://github.com/brenhinkeller/StatisticalGeochemistry) and [SOM-Toolbox](http://www.cis.hut.fi/projects/somtoolbox/), respectively. This can be done (among other ways) by right-clicking the folder containing this repository in Matlab and selecting “Add to Path” > “Selected Folders and Subfolders.” Individual functions and scripts can then be run from the Matlab editor, the command window, or from the command line.
 
 The py codes require the Python complier installed on the PC or Laptop computer. To use the included PCA.py, SVR_main.py, RF_main.py and AA_main.py codes, one must install the sklearn, matplotlib, pandas and other basic function libraries on your Python complier. More details for installation and instruction of sklearn can be found at https://scikit-learn.org/stable/install.html.
+### Download from Github
+```
+git clone https://github.com/myscren/deeptimeML.git
+cd deeptimeML
+```

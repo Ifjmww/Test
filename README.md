@@ -30,6 +30,7 @@ The versions of other packages are, specifically:
 numpy==1.21.1
 pandas==X.XX
 sklearn==X.XX
+matplotlib==X.XX
 ...
 ```
 

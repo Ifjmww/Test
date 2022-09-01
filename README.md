@@ -62,3 +62,6 @@ run AA_main.py
 ```
 python AA_main.py
 ```
+## Demo
+![Figure1](/docs/Demo_test_figure1.jpg)
+![Figure2](/docs/Demo_test_figure2.jpg)

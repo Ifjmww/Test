@@ -20,6 +20,8 @@ This repository contains data source and codes used in the paper entitled "Recon
 
 
 ## System Requirements
+The developmental version of the package has been tested on the following systems:
+- Windows 10
 The codes used in this paper were compiled on the MATLAB and PYTHON.
 
 ## Installation Guide

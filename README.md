@@ -4,19 +4,19 @@ This repository contains data source and codes used in the paper entitled "Recon
 ### Data&Code files 
 - [Data source](https://github.com/myscren/deeptimeML/Data%20source/) -- We compiled the global mafic igneous composition data (New_ign1_mafic_final.xlsx) from EarthChem data repository (http://portal.earthchem.org/, assessed Feb, 2022) which includes PetDB, GEOROC, NAVDAT, and USGS database simultaneously. This file also includes mafic igneous geochemical time series data (New_ign1_mafic_ts_final.xlsx) obtained by the weighted bootstrap sampling method with different filtering (e.g., RAR based filtering) and other schemes.
 
-MCbg.m -- Calculating the time series of global mean mafic geochemistry composition using the weighted bootstrap sampling method of Keller and Schoene (2012). We have added some data filtering processes in this code, including outlier filtering, RAR-based filtering and others. Please also update the mcstask.m when using the StatisticsGeochemistry-master toolboox.
+- [MCbg.m](https://github.com/myscren/deeptimeML/tree/main/Codes/Data%20prepration/) -- Calculating the time series of global mean mafic geochemistry composition using the weighted bootstrap sampling method of Keller and Schoene (2012). We have added some data filtering processes in this code, including outlier filtering, RAR-based filtering and others. Please also update the mcstask.m when using the StatisticsGeochemistry-master toolboox.
 
-ClusterA.py -- Calculating the correlation matrix of results from global mafic igneous geochemical big data for all elements.
+- [ClusterA.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Unsupervised%20learning) -- Calculating the correlation matrix of results from global mafic igneous geochemical big data for all elements.
 
-SOMbg.m -- Self-organizing analysis of global mafic igneous geochemical compositon data, to delineate major trends, jumps, and clusters in big igneous geochemical time series dataset.
+- [SOMbg.m](https://github.com/myscren/deeptimeML/tree/main/Codes/Unsupervised%20learning) -- Self-organizing analysis of global mafic igneous geochemical compositon data, to delineate major trends, jumps, and clusters in big igneous geochemical time series dataset.
 
-PCA.py -- Principal component analysis of global mafic igneous geochemistry data, to supplement SOM results by investigating the details of temporal variations observed via the first principal component (PCA1).
+- [PCA.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Unsupervised%20learning) -- Principal component analysis of global mafic igneous geochemistry data, to supplement SOM results by investigating the details of temporal variations observed via the first principal component (PCA1).
 
-SVR_main.py -- Predicting atmospheric O2 content using Support Vector Regression with global mafic igneous geochemical big data.
+- [SVR_main.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Supervised%20learnig) -- Predicting atmospheric O2 content using Support Vector Regression with global mafic igneous geochemical big data.
 
-RF_main.py -- Predicting atmospheric O2 content using Random Forests with global mafic igneous geochemical big data.
+- [RF_main.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Supervised%20learnig) -- Predicting atmospheric O2 content using Random Forests with global mafic igneous geochemical big data.
 
-ANN_main.py -- Predicting atmospheric O2 content using Artificial Neural Network with global mafic igneous geochemical big data.
+- [ANN_main.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Supervised%20learnig) -- Predicting atmospheric O2 content using Artificial Neural Network with global mafic igneous geochemical big data.
 
 
 ## System Requirements

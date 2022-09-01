@@ -23,6 +23,7 @@ This repository contains data source and codes used in the paper entitled "Recon
 ### OS Requirements
 The developmental version of the package has been tested on the following systems:
 - Windows 10
+Installation time is less than 10 minutes.
 ### Software Requirements
 The codes used in this paper were compiled on the MATLAB 2016a and Python 3.8.<br>
 The versions of other packages are, specifically:
@@ -63,6 +64,6 @@ run AA_main.py
 python AA_main.py
 ```
 ## Demo
-![Figure1](/docs/Demo_test_figure1.jpg)<br>
-![Figure2](/docs/Demo_test_figure2.jpg)<br>
+![Figure1](./docs/Demo_test_figure1.jpg)<br>
+![Figure2](./docs/Demo_test_figure2.jpg)<br>
 ##

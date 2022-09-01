@@ -43,7 +43,9 @@ The py codes require the Python complier installed on the PC or Laptop computer.
 git clone https://github.com/myscren/deeptimeML.git
 cd deeptimeML
 ```
-## Demo
+## How to run
+The mat codes just click the "run" button in MATLAB.
+The py codes need to run according to the following instructions:
 run PCA.py:
 ```
 python PCA.py

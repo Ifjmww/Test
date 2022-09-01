@@ -26,7 +26,8 @@ The developmental version of the package has been tested on the following system
 ### Software Requirements
 The codes used in this paper were compiled on the MATLAB 2016a and Python 3.8.
 The versions of other packages are, specifically:
-```numpy==1.21.1
+```
+numpy==1.21.1
 pandas==X.XX
 sklearn==X.XX
 ...

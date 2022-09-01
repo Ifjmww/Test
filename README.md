@@ -43,3 +43,19 @@ The py codes require the Python complier installed on the PC or Laptop computer.
 git clone https://github.com/myscren/deeptimeML.git
 cd deeptimeML
 ```
+run PCA.py:
+```
+python PCA.py
+```
+run SVR_main.py
+```
+python SVR_main.py
+```
+run RF_main.py
+```
+python RF_main.py
+```
+run AA_main.py
+```
+python AA_main.py
+```

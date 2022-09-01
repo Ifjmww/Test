@@ -14,7 +14,7 @@ This repository contains data source and codes used in the paper entitled "Recon
 
 - [SVR_main.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Supervised%20learnig)&nbsp;&nbsp; -- Predicting atmospheric O2 content using Support Vector Regression with global mafic igneous geochemical big data.
 
-- [RF_main.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Supervised%20learnig)&nbsp;&nbsp;&nbsp;&nbsp; -- Predicting atmospheric O2 content using Random Forests with global mafic igneous geochemical big data.
+- [RF_main.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Supervised%20learnig)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -- Predicting atmospheric O2 content using Random Forests with global mafic igneous geochemical big data.
 
 - [ANN_main.py](https://github.com/myscren/deeptimeML/tree/main/Codes/Supervised%20learnig)&nbsp;&nbsp; -- Predicting atmospheric O2 content using Artificial Neural Network with global mafic igneous geochemical big data.
 

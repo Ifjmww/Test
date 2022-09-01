@@ -1,4 +1,4 @@
-# DeeptimeML
+# **DeeptimeML**
 ## Overview
 This repository contains data source and codes used in the paper entitled "Reconstructing Earth’s Atmospheric Oxygenation History Using Machine Learning" by G. Chen et al. We propose an independent new strategy – (unsupervised/supervised) machine learning with global mafic igneous geochemistry big data to explore atmospheric oxygenation over the last 4.0 Gyr. We observe an overall two-step rise of atmospheric O2 similar to the published curves derived from independent sediment-hosted paleo-oxybarometers but with a more detailed fabric of O2 fluctuations superimposed. These additional, shorter-term fluctuations are also consistent with previous but less well-established suggestions of O2 variability. We compiled 1 data source and 8 codes to generate the diagrams in Fig. 3-Fig. 6 and supplementary figures. Here is the list of data and code files.
 

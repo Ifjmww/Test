@@ -20,9 +20,12 @@ This repository contains data source and codes used in the paper entitled "Recon
 
 
 ## System Requirements
+### OS Requirements
 The developmental version of the package has been tested on the following systems:
 - Windows 10
-The codes used in this paper were compiled on the MATLAB and PYTHON.
+### Software Requirements
+The codes used in this paper were compiled on the MATLAB 2016a and Python 3.8.
+
 
 ## Installation Guide
 The mat codes require the MATLAB platform installed on the PC or Laptop computer. To use the included MCbg.m and SOMbg.m codes, one must add the toolbox of StatisticalGeochemistry-master (https://github.com/brenhinkeller/StatisticalGeochemistry) and SOM-Toolbox-master (http://www.cis.hut.fi/projects/somtoolbox/), respectively. This can be done (among other ways) by right-clicking the folder containing this repository in Matlab and selecting “Add to Path” > “Selected Folders and Subfolders.” Individual functions and scripts can then be run from the Matlab editor, the command window, or from the command line.
